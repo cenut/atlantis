@@ -15,7 +15,7 @@
 // along with the go-athereum library. If not, see <http://www.gnu.org/licenses/>.
 
 // Packageatlantis defines interfaces for interacting with Atlantis.
-packageatlantis
+package atlantis
 
 import (
 	"context"
